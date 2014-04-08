@@ -15,7 +15,7 @@ twitpic_cdn_re = re.compile(r'(http://(\w)+(\.cloudfront\.net)' +
  
 USAGE = '''
         Welcome to twitpic pics retriever. Usage:
-        pics.py [username] [path]
+        python photograb.py [username] [path]
         '''
  
  
